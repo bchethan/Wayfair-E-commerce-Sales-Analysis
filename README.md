@@ -120,8 +120,6 @@ An interactive dashboard was developed to present the results visually.
 - **Sales Trends:** Monthly revenue was compared between 2024 and 2025 to examine changes in sales performance.
 - **Average Order Value:** The project report recorded an AOV of 220.21.
 
-*Note: These findings reflect the analysis outputs documented in the project report. Final rates and revenue figures should be validated against the chosen order-status and discount calculation rules.*
-
 ## Business Recommendations
 
 - **Reduce Returns:** Investigate Furniture first to identify potential product quality, description, or customer expectation issues.
@@ -146,8 +144,6 @@ Wayfair-Ecommerce-Sales-Analysis/
 │
 └── README.md
 ```
-
-*Update the filenames above if your GitHub repository uses different names. Include the CSV files only if you are permitted to redistribute the dataset.*
 
 ## How to Run the Project
 
