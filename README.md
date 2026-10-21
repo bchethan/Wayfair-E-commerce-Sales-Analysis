@@ -173,3 +173,10 @@ Wayfair-Ecommerce-Sales-Analysis/
 This project demonstrates an end-to-end data analytics workflow, from preparing raw e-commerce data to querying business metrics and presenting findings in an interactive dashboard.
 
 It highlights how Python, SQL, and Power BI can be used together to analyze sales performance, identify operational issues, and support data-driven business decisions.
+
+
+## Author
+
+**Chethan Reddy**
+
+GitHub: [bchethan](https://github.com/bchethan)
