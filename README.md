@@ -1,5 +1,24 @@
 # Wayfair E-Commerce Sales Analysis
 
+## Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Objectives](#objectives)
+3. [Tools & Technologies](#tools--technologies)
+4. [Dataset Summary](#dataset-summary)
+5. [Project Workflow](#project-workflow)
+   - [Data Cleaning & Exploratory Data Analysis](#1-data-cleaning--exploratory-data-analysis)
+   - [SQL Analysis](#2-sql-analysis)
+   - [Power BI Dashboard](#3-power-bi-dashboard)
+6. [Key Findings](#key-findings)
+7. [Business Recommendations](#business-recommendations)
+8. [Project Structure](#project-structure)
+9. [How to Run the Project](#how-to-run-the-project)
+10. [Skills Demonstrated](#skills-demonstrated)
+11. [Conclusion](#conclusion)
+
+---
+
 ## Project Overview
 
 This project analyzes e-commerce sales data from a Wayfair dataset to understand sales performance, customer acquisition, product demand, and order outcomes.
