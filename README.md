@@ -158,17 +158,23 @@ Wayfair-Ecommerce-Sales-Analysis/
 ### Steps
 
 1. Clone or download this repository.
-2. Install the required Python dependencies:
+
+   ```bash
+   git clone https://github.com/bchethan/Wayfair-E-commerce-Sales-Analysis
+   cd Wayfair-E-commerce-Sales-Analysis
+   ```
+    
+3. Install the required Python dependencies:
 
    ```bash
    pip install pandas jupyter mysql-connector-python
    ```
 
-3. Place the four CSV files in the appropriate project directory.
-4. Open the Jupyter Notebook and run the data inspection and cleaning steps.
-5. Configure your local MySQL connection and load the cleaned tables into the database.
-6. Execute the queries in `sales_analysis.sql` to reproduce the business analysis.
-7. Open the `.pbix` file in Power BI Desktop and configure the data source if required.
+4. Place the four CSV files in the appropriate project directory.
+5. Open the Jupyter Notebook and run the data inspection and cleaning steps.
+6. Configure your local MySQL connection and load the cleaned tables into the database.
+7. Execute the queries in `sales_analysis.sql` to reproduce the business analysis.
+8. Open the `.pbix` file in Power BI Desktop and configure the data source if required.
 
 **Important:** Keep database credentials outside the notebook and never commit passwords or other secrets to GitHub.
 
